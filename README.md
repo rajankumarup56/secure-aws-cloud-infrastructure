@@ -18,3 +18,7 @@ infrastructure following cloud security best practices.
 ## Outcome
 Hands-on experience in AWS cloud security, monitoring, and compliance-oriented
 infrastructure design.
+
+## Collaboration
+Worked in Agile workflow using Jira for task tracking and project management.
+Collaborated with peers to design and review infrastructure and CI/CD pipelines.
