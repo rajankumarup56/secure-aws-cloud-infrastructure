@@ -22,3 +22,12 @@ infrastructure design.
 ## Collaboration
 Worked in Agile workflow using Jira for task tracking and project management.
 Collaborated with peers to design and review infrastructure and CI/CD pipelines.
+
+## Scripts / Automation (Optional)
+- Bash / Shell scripts for resource setup and CloudWatch alarm configuration
+- YAML templates for monitoring and alerts
+
+## Learning
+- Applied AWS Cloud Security best practices
+- Implemented least-privilege IAM policies
+- Configured monitoring and alerting for proactive security
