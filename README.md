@@ -1,3 +1,7 @@
+> ⚠️ NOTE  
+> This repository represents earlier experimentation and learning.
+> My current production-focused DevOps and AWS projects are pinned on my GitHub profile.
+
 # Secure Cloud Infrastructure Deployment on AWS
 
 This project demonstrates the design and deployment of a secure AWS cloud
