@@ -1,37 +1,45 @@
-> ⚠️ NOTE  
-> This repository represents earlier experimentation and learning.
-> My current production-focused DevOps and AWS projects are pinned on my GitHub profile.
+# AWS Secure Cloud Infrastructure
 
-# Secure Cloud Infrastructure Deployment on AWS
+🔹 Designed a secure AWS infrastructure using IAM policies and network security best practices.
 
-This project demonstrates the design and deployment of a secure AWS cloud
-infrastructure following cloud security best practices.
+---
 
-## Services Used
-- AWS EC2
-- VPC
-- IAM
-- CloudWatch
+## Architecture Workflow
 
-## Security Focus
-- Least-privilege IAM policies
-- Secure VPC networking
-- EC2 access hardening
-- Monitoring and alerting using CloudWatch
+1. IAM policies restrict access
+2. Security groups control network traffic
+3. Resources are deployed securely
 
-## Outcome
-Hands-on experience in AWS cloud security, monitoring, and compliance-oriented
-infrastructure design.
+---
 
-## Collaboration
-Worked in Agile workflow using Jira for task tracking and project management.
-Collaborated with peers to design and review infrastructure and CI/CD pipelines.
+## AWS Services Used
 
-## Scripts / Automation (Optional)
-- Bash / Shell scripts for resource setup and CloudWatch alarm configuration
-- YAML templates for monitoring and alerts
+* IAM
+* EC2
+* VPC
+* Security Groups
 
-## Learning
-- Applied AWS Cloud Security best practices
-- Implemented least-privilege IAM policies
-- Configured monitoring and alerting for proactive security
+---
+
+## Screenshots
+
+## IAM Configuration
+
+![IAM](screenshots/iam.png)
+
+## Security Groups
+
+![SG](screenshots/security-group.png)
+
+---
+
+## Related Project
+
+AWS Highly Available Web Architecture
+https://github.com/rajankumarup56/aws-highly-available-web-architecture
+
+---
+
+## Author
+
+Ranjan Kumar Upadhyay
