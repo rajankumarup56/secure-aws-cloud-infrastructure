@@ -80,7 +80,7 @@ User → Bastion Host (Public EC2) → Private EC2 Instance
 ---
 
 ### 🧠 Architecture Proof
-![VPC Architecture](images/14-vpc-architecture.png)
+![Architecture](images/14-vpc-architecture.png)
 ![Private EC2 No Public IP](images/15-private-no-public-ip.png)
 
 ---
