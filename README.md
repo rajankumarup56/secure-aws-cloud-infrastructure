@@ -1,8 +1,12 @@
 # 🔐 Secure AWS Cloud Infrastructure with Bastion Host (Production-Ready Architecture)
 
+> A production-style secure AWS infrastructure demonstrating private EC2 access via Bastion Host with complete network isolation.
+
+---
+
 ## 📌 Project Overview
 
-This project demonstrates a secure AWS architecture where a private EC2 instance is accessed through a Bastion Host (public EC2 instance). The goal is to enhance security by preventing direct access to private resources.
+This project demonstrates a secure AWS cloud architecture where a private EC2 instance is accessed through a Bastion Host (public EC2 instance). The design ensures that sensitive resources remain isolated and are not directly exposed to the internet.
 
 ---
 
@@ -130,6 +134,12 @@ User → Bastion Host (Public EC2) → Private EC2 Instance
 * Deploy application on private EC2
 * Integrate CloudWatch monitoring
 * Implement IAM roles for better security
+
+---
+
+## 🏷️ Tags
+
+AWS | EC2 | VPC | Security | Bastion Host | DevOps | Cloud Architecture
 
 ---
 
