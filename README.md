@@ -1,4 +1,4 @@
-# 🔐 Secure AWS Architecture using Bastion Host
+# 🔐 Secure AWS Cloud Infrastructure with Bastion Host (Production-Ready Architecture)
 
 ## 📌 Project Overview
 
